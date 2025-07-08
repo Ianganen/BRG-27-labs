@@ -568,4 +568,4 @@ cp -R /home/ubuntu/Documents/* /home/ubuntu/backup/
 zip -r $now.zip /home/ubuntu/backup/*
 cp $now.zip /home/ubuntu/
 scp -i /home/ubuntu/yourkey.pem $now.zip ubuntu@your-server-ip:/home/ubuntu/
-Let me know if you'd like this adapted into a real script template or explained for beginners!
+
