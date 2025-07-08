@@ -16,7 +16,7 @@ I learn how to use commands like ps -e,top,1 to monitor processes running in my 
 
 I learnt how to use ls, ls -la, ls -alt, ls -lah to explore the files I created for my lab activities.
 
-I learnt how to create new fi;es in my Linux script using touch/ I edited and viewed its conetns using the it,nano, cat, less commands.
+I learnt how to create new files in my Linux script using touch/ I edited and viewed its contents using the it,nano, cat, less commands.
 
 I learnt how to copy and move files with cp, mv; delete them with the rm commands.
 
@@ -31,7 +31,7 @@ I was taught how to identify private IP using the command 'ip a' and how to ping
 
 I learnt how edit and create custom aliases using /etc/hosts and how  to  test them  with ping, use nslookup and install/use whois to lookup domains like google.com
 
-I learnt how to use lsusb, lspci, `less /proc/cpuinfo to access information on the hardward of my Linux system.
+I learnt how to use lsusb, lspci, `less /proc/cpuinfo to access information on the hardware of my Linux system.
 
   I learnt to use commands to redirect output using for example, lsusb > output_of_lsusb, then view with less and cat.
 
